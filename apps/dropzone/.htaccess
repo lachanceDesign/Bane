@@ -1,0 +1,28 @@
+Options -Indexes 
+<Files index.php>
+
+order deny,allow
+deny from all
+allow from 96.92.174.238
+allow from localhost
+allow from 71.184.197.42
+allow from 98.110.240.226
+allow from 173.48.157.140
+allow from 98.217.217.91
+allow from 96.86.127.45
+allow from 73.149.175.27
+</Files>
+
+<Files form.php>
+
+order deny,allow
+deny from all
+allow from 96.92.174.238
+allow from localhost
+allow from 71.184.197.42
+allow from 98.110.240.226
+allow from 173.48.157.140
+allow from 98.217.217.91
+allow from 96.86.127.45
+allow from 73.149.175.27
+</Files>

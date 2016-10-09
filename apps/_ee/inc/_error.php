@@ -1,0 +1,1 @@
+<h1>Form Error</h1>  <hr /> <p>&nbsp;</p>  <p class="bg-danger" id="form-msg" style="padding:15px;">An error occured, Please reload the page, fill out the required fields, and confirm the captcha.</p>  <p>&nbsp;</p> 

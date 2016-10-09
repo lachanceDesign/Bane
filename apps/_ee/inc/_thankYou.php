@@ -1,0 +1,1 @@
+<h1>Thank you for Choosing BaneCare</h1>  <hr /> <p>&nbsp;</p>  <p class="bg-success" id="form-msg" style="padding:20px;">Thank you for your interest in <b>Bane Care</b>. We&#39;ll be contacting you shortly.</p>  <p>&nbsp;</p> 
